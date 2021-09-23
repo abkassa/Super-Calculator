@@ -1,0 +1,27 @@
+{
+  "name": "Super-Calculator",
+  "version": "1.0.0",
+  "description": "Sample Calculator Automation Test",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "protractor": "^7.0.0",
+    "protractor-jasmine2-screenshot-reporter": "^0.5.0"
+  },
+  "devDependencies": {
+    "protractor": "7.0.0",
+    "jasmine": "3.6.4",
+    "typescript": "3.4.3",
+    "@types/jasmine": "2.8.7",
+    "@types/node": "12.12.2",
+    "xlsx": "0.16.9",
+    "cryptorjs": "3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Abrham Kassa",
+  "license": "ISC"
+}
